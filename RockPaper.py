@@ -1,4 +1,3 @@
-# Rock Paper Scissors Basic Project
 import random
 
 while True:
